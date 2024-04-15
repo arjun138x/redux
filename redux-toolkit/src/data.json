@@ -1,0 +1,58 @@
+[
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy S21",
+    "Price": 1199,
+    "Release_Date": "2021-01-29",
+    "Image_URL": "https://example.com/samsung_s21_ultra.jpg"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "iPhone 13 Pro",
+    "Price": 1099,
+    "Release_Date": "2021-09-24",
+    "Image_URL": "https://example.com/iphone_13_pro_max.jpg"
+  },
+  {
+    "Brand": "OnePlus",
+    "Model": "OnePlus 9 Pro",
+    "Price": 969,
+    "Release_Date": "2021-03-23",
+    "Image_URL": "https://example.com/oneplus_9_pro.jpg"
+  },
+  {
+    "Brand": "Google",
+    "Model": "Pixel 6 Pro",
+    "Price": 899,
+    "Release_Date": "2021-10-19",
+    "Image_URL": "https://example.com/pixel_6_pro.jpg"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Mi 11 Ultra",
+    "Price": 999,
+    "Release_Date": "2021-05-11",
+    "Image_URL": "https://example.com/mi_11_ultra.jpg"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Mate 40 Pro",
+    "Price": 1199,
+    "Release_Date": "2020-10-22",
+    "Image_URL": "https://example.com/mate_40_pro.jpg"
+  },
+  {
+    "Brand": "Sony",
+    "Model": "Xperia 1 III",
+    "Price": 1299,
+    "Release_Date": "2021-08-19",
+    "Image_URL": "https://example.com/xperia_1_iii.jpg"
+  },
+  {
+    "Brand": "LG",
+    "Model": "Wing",
+    "Price": 999,
+    "Release_Date": "2020-10-05",
+    "Image_URL": "https://example.com/lg_wing.jpg"
+  }
+]
